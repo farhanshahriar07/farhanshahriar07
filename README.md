@@ -19,7 +19,7 @@
 
 - 🔭 &nbsp; I’m currently working on **some personal project**
 - 🌱 &nbsp; I’m currently learning React Native; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/frhnshhrr?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/farhanshahriar07?tab=repositories)
  - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/farhan-shahriar-hossain/)
 - 📝 &nbsp; Checkout my [resume](https://www.farhanshahriar.pages.dev/assets/cv/Farhan_Resume.pdf)
@@ -58,5 +58,5 @@
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=frhnshhrr&show_icons=true&count_private=true" alt="raihanmiraj" />
+<img src="https://github-readme-stats.vercel.app/api?username=farhanshahriar07&show_icons=true&count_private=true" alt="farhanshahriar" />
 <!-- <p><img src="https://visitor-badge.glitch.me/badge?page_id=frhnshhrr.frhnshhrr" alt="visitors"></p> -->
